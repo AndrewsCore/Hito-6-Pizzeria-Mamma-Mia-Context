@@ -1,4 +1,4 @@
-# Hito 2 pizzeria mamma mia desarrollada con html + css + react estados
+# Hito 6 pizzeria mamma mia desarrollada con html + css + react Context
 
 # React + Vite
 
